@@ -39,7 +39,11 @@
 }
 .catagories{
     margin: 100px;
+    border-image-slice: 1;
     text-align: center;
+    border-bottom: 5px solid;
+    width: 50px;
+    border-image: linear-gradient(to left yellow red);
 }
 
 
