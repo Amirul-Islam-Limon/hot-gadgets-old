@@ -1,0 +1,45 @@
+.hight-top{
+    height: 100px;
+    border: none;
+}
+.button-style{
+    background-color: black;
+    color: white;
+    width: 100px;
+    height: 40px;
+    border-radius: 7px;
+    border: none;
+}
+.bg-light{
+    background-color: white;
+}
+.see-all{
+    width: 100px;
+    height: 40px;
+    border: none;
+    color:#f57242;
+}
+.card{
+    box-shadow: 5px 5px 50px lightgrey;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.margin-bottom{
+    margin-bottom: 100px;
+}
+.border-white{
+    text-align: center;
+}
+
+.margin-top{
+    margin-top: 80px;
+
+}
+.catagories{
+    margin: 100px;
+    text-align: center;
+}
+
+
